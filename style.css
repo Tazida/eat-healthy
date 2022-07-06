@@ -1,0 +1,28 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+}
+h1 {
+  font-size: 30px;
+  margin-left: 10%;
+}
+.blue-color {
+  color: navy;
+}
+.half-width p {
+  margin-left: 10%;
+}
+.half-width img {
+  width: 50%;
+  padding-left: 2%;
+  margin-right: 70%;
+}
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(rgb(44, 11, 232), rgb(11, 85, 244));
+  padding: 10px 20px;
+  color: white;
+  font-size: 700;
+  border-radius: 20px;
+  margin-left: 10%;
+}
